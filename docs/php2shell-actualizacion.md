@@ -1,3 +1,5 @@
+# PHP2Shell · Procedimiento de actualización
+## Qué hace falta
 Para comprobar y parchear PHP2Shell necesitamos:
 
 - Una máquina virtual con Ubuntu Server 24.04 y conexión a Internet.
